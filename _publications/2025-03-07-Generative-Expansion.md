@@ -3,7 +3,7 @@ title: "Generative Expansion of Small Datasets: An Expansive Graph Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-07-Generative-Expansion
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2025-03-07
 venue: 'ICASSP 2025'
 slidesurl: 'http://vahidjbrl.github.io/files/slides2.pdf'
