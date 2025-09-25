@@ -25,11 +25,6 @@ My path has been one of consistent academic excellence, beginning with ranking i
 
 I believe the future of AI lies not in its size, but in its intelligence. If you share this vision, I'd love to connect.
 
----
-* [**Email me!**](mailto:vjebrae@ncsu.edu)
-* [**My LinkedIn**](https://www.linkedin.com/in/vahid-jebraeeli-2a1406102/)
----
-
 ## Featured Publications
 
 ### VITCAE: ViT-based Class-conditioned Autoencoder
