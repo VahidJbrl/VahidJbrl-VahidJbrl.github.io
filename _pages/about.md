@@ -1,38 +1,74 @@
 ---
+
 permalink: /
-title: "Vahid Jebraeeli - Ph.D. Candidate"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+title: "Vahid Jebraeeli — Efficient Generative AI & Vision Systems"
+author\_profile: true
+redirect\_from:
 
-Hello! [cite_start]I'm Vahid Jebraeeli, a final-year Ph.D. candidate in Electrical Engineering at **North Carolina State University**, where I am fortunate to be advised by Dr. Hamid Krim[cite: 1].
-
-My research is driven by a central question: How can we build AI systems that are not only powerful but also efficient, scalable, and sustainable? [cite_start]I specialize in machine learning and deep learning, with a deep focus on large-scale generative models and foundational vision systems[cite: 1]. [cite_start]My work spans the full research lifecycle—from exploring novel theories and mathematical foundations to implementing and optimizing state-of-the-art models[cite: 1]. [cite_start]With over eight years of experience, I am passionate about tackling complex challenges in multimodal content generation and efficient learning[cite: 1].
-
-## My Research Focus
-
-[cite_start]My doctoral thesis, **“Balanced Scalability for Sustainable ML: Novel Data Synthesis and Transformer Dynamics for Efficient AI Systems”**[cite: 1], encapsulates my core research interests. I am dedicated to pioneering methods that enhance AI capabilities while minimizing computational and data-related costs.
-
-My key research pillars include:
-
-* **Pioneering Data-Efficient Learning**: I design frameworks that address the "small data" problem. [cite_start]My work on **"Expansive Synthesis"** creates vast, high-fidelity datasets from minimal samples using expander graph mappings, a project published at ICASSP 2025[cite: 1]. [cite_start]On the other end of the spectrum, my **"Koopcon"** model, which leverages Koopman Operator Theory and Optimal Transport, condenses massive datasets into compact, information-rich representations without sacrificing performance, as published in ICIP 2024[cite: 1].
-
-* **Innovating Generative Architectures**: I am deeply involved in redesigning the building blocks of generative AI. [cite_start]My recent projects include **ViTCAE**, a novel Vision Transformer-based autoencoder that enhances controllable image synthesis, and a unique architecture that synergizes **Volterra Filters and Vision Transformers** to capture both non-linear local features and global context[cite: 1].
-
-* [cite_start]**Optimizing Transformer Dynamics**: I investigate the fundamental mechanics of Vision Transformers (ViTs)[cite: 1]. [cite_start]By analyzing the evolution of attention mechanisms using tools like the Earth Mover's Distance (EMD), I develop novel optimization strategies to guide ViTs toward more efficient and stable convergence[cite: 1].
-
-## My Journey
-
-My passion for electrical engineering and artificial intelligence began long before my Ph.D. [cite_start]I was honored to rank in the top 0.3% of over 223,000 participants in the national university entrance exam, which led me to my B.Sc. in Electrical Engineering at **Amirkabir University of Technology**[cite: 1]. [cite_start]I continued my academic pursuit at the prestigious **Sharif University of Technology**, where I earned my M.Sc. with distinction and ranked 3rd in my cohort[cite: 1]. These formative experiences in Iran provided me with a rigorous foundation in signal processing, mathematics, and machine learning.
-
-Beyond academia, I have translated my research into tangible solutions in various industry roles. [cite_start]As a Senior ML Engineer in Germany, I developed generative models for style transfer and high-resolution media generation[cite: 1]. [cite_start]More recently, during an internship with the **USDA**, I designed and deployed a YOLOv8-based deep learning model for agricultural applications, including blueberry detection, segmentation, and maturity analysis[cite: 1].
-
-I am always eager to connect with fellow researchers, industry professionals, and anyone passionate about the future of AI. Please feel free to reach out!
+* /about/
+* /about.html
 
 ---
 
-**Vahid Jebraeeli**
-* [cite_start]**Email:** vjebrae@ncsu.edu [cite: 1]
-* [cite_start]**LinkedIn:** [linkedin/vahid-jebraeeli](https://www.linkedin.com/in/vahid-jebraeeli) [cite: 1]
+Hi! I’m **Vahid Jebraeeli**, a final-year Ph.D. researcher in Electrical & Computer Engineering at **North Carolina State University** (minor in Mathematics), advised by **Prof. Hamid Krim** in the VISSTAL Lab. I build scalable, **data-efficient generative and vision systems**, translating new theory into performant models and practical tools. My work spans transformer dynamics, controllable autoencoders, diffusion, and dataset synthesis/condensation for low-data regimes.&#x20;
+
+# Research at a glance
+
+* **Interests:** Machine Learning, Computer Vision, Generative & Multimodal Models, Transformers/ViTs, Diffusion, Autoencoders, 3D Vision, Efficient/Responsible AI, vLLM & agentic systems.
+* **Tooling:** PyTorch/Lightning, TensorFlow/Keras, MMDetection/Detectron2, YOLOv5/v8, ViT/Swin, DETR/Deformable DETR, SAM, CLIP/BLIP-2/LLaVA, NeRF & 3D Gaussian Splatting.
+* **Optimization/MLOps:** TensorRT, ONNX Runtime, OpenVINO, quantization/pruning/distillation, TFLite/CoreML, MLflow, Weights & Biases, Docker, GitHub Actions, Vertex AI.
+
+# Current projects
+
+* **Volterra-Conditioned Attention (2025– )** — A ViT architecture that injects **non-linear Volterra priors** into attention; exploring **continuous-time ODE** views for stability and interpretability.
+* **ViTCAE: ViT-based Class-conditioned Autoencoder (2025– )** — Re-purposes the **class token** as a generative linchpin for controllable synthesis, with **convergence-aware temperature scheduling** and selective head-freezing to cut FLOPs while preserving fidelity.
+* **Optimizing ViT Dynamics (2024–2025)** — Tracks how attention evolves during training; introduces **EMD-based** objectives and controls that speed convergence and improve efficiency.
+* **Expansive Synthesis for Data-Efficient Learning (2023–2024)** — Uses **expander-graph mappings** and latent-space interpolation to grow rich datasets from a few samples; validated via downstream classifiers; **accepted at ICASSP 2025**.
+* **Koopcon: Dataset Condensation via Koopman Operators (2022–2023)** — Autoencoder + **Optimal Transport/Wasserstein** to compress large datasets into compact, label-faithful cores; **published at ICIP 2024**.
+
+## Selected publications
+
+* **V. Jebraeeli**, B. Jiang, D. Cansever, H. Krim, “**Koopcon: A new approach towards smarter and less complex learning**,” *IEEE ICIP 2024*, Abu Dhabi, pp. 880–886, doi: 10.1109/ICIP51287.2024.10647948.
+* **V. Jebraeeli**, B. Jiang, D. Cansever, H. Krim, “**Generative Expansion of Small Datasets: An Expansive Graph Approach**,” *IEEE ICASSP 2025* (accepted).
+* **V. Jebraeeli**, H. Krim, D. Cansever, “**ViTCAE: ViT-based Class-conditioned Autoencoder**,” submitted to *IEEE ICASSP 2026*.
+* **V. Jebraeeli**, H. Yun, H. Krim, “**Volterra-Conditioned Attention in Vision Transformers**,” in preparation.
+
+## Experience highlights
+
+* **Research Assistant, VISSTAL Lab, NCSU (2022–present)** — Led design of **ViTCAE**; studied **ViT training dynamics**; created **Expansive Synthesis** and **Koopcon** frameworks from concept to evaluation and publication.
+* **AI & CV Intern, USDA (Summer 2023)** — Built **YOLOv8** detection/segmentation for blueberries; color calibration for maturity analysis; sizing for genotype estimation.
+* **Senior ML Engineer, AI-bridge (2021–2022)** — Style transfer for fashion/makeup; **background matting**; text-to-image **diffusion** for high-res image/video generation.
+* **Algorithmic Trading, Sharif Tech Services (2020–2021)** — **XGBoost** price prediction and a **genetic-algorithm cross-validation** scheme for tuning.
+* Earlier RA roles in biometrics (gait, iris), multi-view geometry, and DSP.
+
+## Honors
+
+* **Graduate Merit Award**, NC State College of Engineering (2022, 2024).
+* **Fully funded Ph.D. Research Assistantship** (tuition + health insurance, 2022–2025).
+* Top **0.3–0.4%** in national entrance exams (B.Sc. & M.Sc.); **NODET** alumnus.
+
+## Teaching & service
+
+* **Teaching assistant** for Image Processing (Sharif, 2020); **Head TA** for Communication/Digital Communications (Sharif & Amirkabir, 2019–2020).
+* **Reviewer** for IEEE **ICIP** (conference) and **OJSP** (journal).
+
+## Skills snapshot
+
+* **Programming:** Python (Advanced), MATLAB (Advanced), C++ (Moderate); Git, Jupyter, VS Code, PyCharm, Anaconda.
+* **Classical CV & Geometry:** SIFT/SURF, SLAM, COLMAP, Open3D, multi-view geometry.
+* **Optimization & Deployment:** TensorRT, ONNX Runtime, OpenVINO; **INT8/FP16** quantization, pruning, distillation; TFLite/CoreML.
+* **MLOps & DataOps:** MLflow, Weights & Biases, Docker, GitHub Actions, data versioning/monitoring, Vertex AI.
+
+## Education
+
+* **Ph.D., Electrical Engineering (Minor: Mathematics)**, **North Carolina State University**, 2022–Sept. 2025. Thesis: *Balanced Scalability for Sustainable ML*. Advisor: **Hamid Krim**.
+* **M.Sc., Electrical Engineering**, **Sharif University of Technology**, 2018–2021. Thesis on **gait-based identity recognition** (Distinction; 19.75/20).
+* **B.Sc., Electrical Engineering**, **Amirkabir University of Technology**, 2014–2018. Thesis on **iris-based identity recognition**; top 0.3% national ranking.
+
+## Contact & links
+
+* **Email:** [mailto\:vjebrae@ncsu.edu](mailto:vjebrae@ncsu.edu)
+* **LinkedIn:** vahid-jebraeeli
+* **Keywords for this site:** Machine Learning, Computer Vision, Generative AI, Vision Transformers, Diffusion, Dataset Synthesis/Condensation, Efficient AI
+
+*Always open to research collaborations and industry partnerships—especially around efficient generative modeling, controllable synthesis, and the dynamics of attention in vision systems.*
