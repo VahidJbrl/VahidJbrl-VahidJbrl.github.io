@@ -9,7 +9,7 @@ redirect_from:
 
 In an era of exponentially growing AI, my work asks a critical question: **How do we achieve intelligent scale sustainably?**
 
-I am a machine learning and computer vision researcher, and a final-year Ph.D. candidate at North Carolina State University, where I architect the next generation of generative models and foundational vision systems. My research, summarized by the title of my thesis, *"Balanced Scalability for Sustainable ML"*, is focused on building AI that is not only powerful but also profoundly efficient. I move beyond brute-force computation to create systems with elegance, precision, and a deep understanding of the data they learn from.
+I am a Machine Learning and Computer Vision researcher, and a final-year Ph.D. candidate at North Carolina State University, where I architect the next generation of generative models and foundational vision systems. My research, summarized by the title of my thesis, *"Balanced Scalability for Sustainable ML"*, is focused on building AI that is not only powerful but also profoundly efficient. I move beyond brute-force computation to create systems with elegance, precision, and a deep understanding of the data they learn from.
 
 ## My Approach: A Duality of Data Synthesis and Architectural Innovation
 
@@ -26,10 +26,8 @@ My path has been one of consistent academic excellence, beginning with ranking i
 I believe the future of AI lies not in its size, but in its intelligence. If you share this vision, I'd love to connect.
 
 ---
-**Vahid Jebraeeli**
 * [**Email me!**](mailto:vjebrae@ncsu.edu)
 * [**My LinkedIn**](https://www.linkedin.com/in/vahid-jebraeeli-2a1406102/)
-
 ---
 
 ## Featured Publications
