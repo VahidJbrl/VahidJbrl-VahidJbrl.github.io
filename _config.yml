@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Vahid Jebraeeli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A highly motivated final-year Ph.D. researcher with demonstrated expertise in machine learning and deep learning, specializing in large-scale generative models and foundational vision systems."
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=p3_1UtYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "VahidJbrl"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
