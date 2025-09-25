@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Tehran, Iran"
 ---
 
-In this role as Head Teaching Assistant for Dr. Fereydoun Behnia's Digital Communication Systems course, I was responsible for guiding students through the core concepts of digital signal transmission and reception.
+In this role as Head Teaching Assistant for Digital Communication Systems course, I was responsible for guiding students through the core concepts of digital signal transmission and reception.
 
 Course Summary
 ======
