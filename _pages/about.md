@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vahid Jebraeeli | Architecting Efficient AI"
+title: "Vahid Jebraeeli"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 In an era of exponentially growing AI, my work asks a critical question: **How do we achieve intelligent scale sustainably?**
 
-I am a machine learning researcher and a final-year Ph.D. candidate at North Carolina State University, where I architect the next generation of generative models and vision systems. My focus is on building AI that is not only powerful but also profoundly efficient, moving beyond brute-force computation to create systems with elegance and precision.
+I am a machine learning and computer vision researcher and a final-year Ph.D. candidate at North Carolina State University, where I architect the next generation of generative models and vision systems. My focus is on building AI that is not only powerful but also profoundly efficient, moving beyond brute-force computation to create systems with elegance and precision.
 
 ## My Research: Data Synthesis and Model Dynamics
 
