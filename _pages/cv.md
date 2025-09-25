@@ -17,30 +17,30 @@ Education
 
 Work experience
 ======
-* 2022-Present: Research Assistant
+* **2022-Present: Research Assistant**
   * North Carolina State University
   * Duties included: Leading the design of novel generative architectures (ViTCAE), conducting foundational research into the dynamics of Vision Transformers, creating an "Expansive Synthesis" framework, and developing "Koopcon" a novel dataset condensation framework.
   * Supervisor: Dr. Hamid Krim
 
-* Summer 2023: AI & CV Intern
+* **Summer 2023: AI & CV Intern**
   * US Department of Agriculture (USDA)
   * Duties included: Designing and training a Deep Neural Network for detecting and segmenting Blueberries, performing ML-based Colour Calibration, and measuring the diameter of blueberries.
   * Supervisor: Dr. Ebraheim Babiker
 
-* 2021-2022: Senior ML Engineer
+* **2021-2022: Senior ML Engineer**
   * AI-bridge Company, Stuttgart, Germany
   * Duties included: Utilizing style transfer approaches, developing a robust neural network architecture for background removal, and establishing text-to-image diffusion models.
 
-* 2020-2021: Senior Machine Learning Engineer
+* **2020-2021: Senior Machine Learning Engineer**
   * Sharif Technology Services Complex
   * Duties included: Designing and implementing an algorithm for Bitcoin price prediction and a genetic algorithm based cross validation scheme.
 
-* 2018-2021: Research Assistant
+* **2018-2021: Research Assistant**
   * Electronic Research Institute, Sharif University
   * Duties included: Analyzing gait and body motions for identity recognition, designing a Deep Neural Network for human identity recognition, and disentangling identity-unrelated factors.
   * Supervisor: Dr. Shahrokh Ghaemmaghami
 
-* 2014-2018: Research Assistant
+* **2014-2018: Research Assistant**
   * Digital Com. Lab, Amirkabir University
   * Duties included: Designing an algorithm for Iris segmentation, feature extraction from Iris images, and developing a data fusion scheme.
   * Supervisor: Dr. Hamidreza Amindavar
