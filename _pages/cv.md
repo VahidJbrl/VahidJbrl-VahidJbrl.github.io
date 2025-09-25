@@ -11,54 +11,106 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical Engineering (with Minor in Mathematics), North Carolina State University, 2025 (expected)
+* M.Sc. in Electrical Engineering, Sharif University of Technology, 2021
+* B.Sc. in Electrical Engineering, Amirkabir University of Technology, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-Present: Research Assistant
+  * North Carolina State University
+  * Duties included: Leading the design of novel generative architectures (ViTCAE), conducting foundational research into the dynamics of Vision Transformers, creating an "Expansive Synthesis" framework, and developing "Koopcon" a novel dataset condensation framework.
+  * Supervisor: Dr. Hamid Krim
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: AI & CV Intern
+  * US Department of Agriculture (USDA)
+  * Duties included: Designing and training a Deep Neural Network for detecting and segmenting Blueberries, performing ML-based Colour Calibration, and measuring the diameter of blueberries.
+  * Supervisor: Dr. Ebraheim Babiker
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2021-2022: Senior ML Engineer
+  * AI-bridge Company, Stuttgart, Germany
+  * Duties included: Utilizing style transfer approaches, developing a robust neural network architecture for background removal, and establishing text-to-image diffusion models.
+
+* 2020-2021: Senior Machine Learning Engineer
+  * Sharif Technology Services Complex
+  * Duties included: Designing and implementing an algorithm for Bitcoin price prediction and a genetic algorithm based cross validation scheme.
+
+* 2018-2021: Research Assistant
+  * Electronic Research Institute, Sharif University
+  * Duties included: Analyzing gait and body motions for identity recognition, designing a Deep Neural Network for human identity recognition, and disentangling identity-unrelated factors.
+  * Supervisor: Dr. Shahrokh Ghaemmaghami
+
+* 2014-2018: Research Assistant
+  * Digital Com. Lab, Amirkabir University
+  * Duties included: Designing an algorithm for Iris segmentation, feature extraction from Iris images, and developing a data fusion scheme.
+  * Supervisor: Dr. Hamidreza Amindavar
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming platforms:**
+  * Python (Advanced)
+  * MATLAB (Advanced)
+  * C++ (Moderate)
+  * Git
+  * Jupyter
+  * VS Code
+  * Pycharm
+  * Anaconda
+* **Computer Vision & DL:**
+  * PyTorch (Lightning)
+  * TensorFlow/Keras
+  * MMDetection/Detectron2
+  * Ultralytics YOLOv5/v8
+  * Vision Transformers (ViT/Swin)
+  * DETR/Deformable DETR
+  * Segment Anything (SAM)
+  * diffusion models (Stable Diffusion, ControlNet)
+  * NeRF & 3D Gaussian Splatting
+  * CLIP/BLIP‑2/LLaVA
+  * Autoencoders
+  * Optimal Transport
+* **Classical CV & Geometry:**
+  * SIFT/SURF
+  * Multi-view Geometry
+  * SLAM
+  * COLMAP
+  * Open3D
+* **Optimization & Deployment:**
+  * TensorRT
+  * ONNX Runtime
+  * OpenVINO
+  * INT8/FP16 Quantization
+  * Pruning
+  * Distillation
+  * TFLite/CoreML
+* **MLOps & DataOps:**
+  * MLflow
+  * Weights & Biases
+  * Docker
+  * GitHub Actions
+  * Vertex AI
+  * Dataset Tooling
+  * Data Versioning & Monitoring
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer Reviewer, IEEE International Conference on Image Processing (ICIP)
+* Peer Reviewer, IEEE Open Journal of Signal Processing (OJSP)
