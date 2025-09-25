@@ -1,56 +1,33 @@
+# About Me
+
+Hello! [cite_start]I'm Vahid Jebraeeli, a final-year Ph.D. candidate in Electrical Engineering at **North Carolina State University**, where I am fortunate to be advised by Dr. Hamid Krim[cite: 1].
+
+My research is driven by a central question: How can we build AI systems that are not only powerful but also efficient, scalable, and sustainable? [cite_start]I specialize in machine learning and deep learning, with a deep focus on large-scale generative models and foundational vision systems[cite: 1]. [cite_start]My work spans the full research lifecycle—from exploring novel theories and mathematical foundations to implementing and optimizing state-of-the-art models[cite: 1]. [cite_start]With over eight years of experience, I am passionate about tackling complex challenges in multimodal content generation and efficient learning[cite: 1].
+
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+## My Research Focus
+
+[cite_start]My doctoral thesis, **“Balanced Scalability for Sustainable ML: Novel Data Synthesis and Transformer Dynamics for Efficient AI Systems”**, encapsulates my core research interests[cite: 1]. I am dedicated to pioneering methods that enhance AI capabilities while minimizing computational and data-related costs.
+
+My key research pillars include:
+
+* **Pioneering Data-Efficient Learning**: I design frameworks that address the "small data" problem. [cite_start]My work on **"Expansive Synthesis"** creates vast, high-fidelity datasets from minimal samples using expander graph mappings, a project published at ICASSP 2025[cite: 1]. [cite_start]On the other end of the spectrum, my **"Koopcon"** model, which leverages Koopman Operator Theory and Optimal Transport, condenses massive datasets into compact, information-rich representations without sacrificing performance, as published in ICIP 2024[cite: 1].
+
+* **Innovating Generative Architectures**: I am deeply involved in redesigning the building blocks of generative AI. [cite_start]My recent projects include **ViTCAE**, a novel Vision Transformer-based autoencoder that enhances controllable image synthesis, and a unique architecture that synergizes **Volterra Filters and Vision Transformers** to capture both non-linear local features and global context[cite: 1].
+
+* **Optimizing Transformer Dynamics**: I investigate the fundamental mechanics of Vision Transformers (ViTs). [cite_start]By analyzing the evolution of attention mechanisms using tools like the Earth Mover's Distance (EMD), I develop novel optimization strategies to guide ViTs toward more efficient and stable convergence[cite: 1].
+
+---
+## My Journey
+
+My passion for electrical engineering and artificial intelligence began long before my Ph.D. [cite_start]I was honored to rank in the top 0.3% of over 223,000 participants in the national university entrance exam, which led me to my B.Sc. in Electrical Engineering at **Amirkabir University of Technology**[cite: 1]. [cite_start]I continued my academic pursuit at the prestigious **Sharif University of Technology**, where I earned my M.Sc. with distinction and ranked 3rd in my cohort[cite: 1]. These formative experiences in Iran provided me with a rigorous foundation in signal processing, mathematics, and machine learning.
+
+Beyond academia, I have translated my research into tangible solutions in various industry roles. [cite_start]As a Senior ML Engineer in Germany, I developed generative models for style transfer and high-resolution media generation[cite: 1]. [cite_start]More recently, during an internship with the **USDA**, I designed and deployed a YOLOv8-based deep learning model for agricultural applications, including blueberry detection, segmentation, and maturity analysis[cite: 1].
+
+I am always eager to connect with fellow researchers, industry professionals, and anyone passionate about the future of AI. Please feel free to reach out!
+
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Vahid Jebraeeli**
+* [cite_start]**Email:** vjebrae@ncsu.edu [cite: 1]
+* [cite_start]**LinkedIn:** [linkedin/vahid-jebraeeli](https://www.linkedin.com/in/vahid-jebraeeli) [cite: 1]
