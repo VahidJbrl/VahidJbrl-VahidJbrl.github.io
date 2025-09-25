@@ -8,7 +8,7 @@ date: 2020-01-20
 location: "Tehran, Iran"
 ---
 
-As the Head Teaching Assistant for the undergraduate Communication Systems course under Dr. Hamid Behrouzi, I led the TA team and facilitated the learning process for a large class of students. The course covered the fundamental principles of analog and digital communication.
+As the Head Teaching Assistant for the undergraduate Communication Systems course, I led the TA team and facilitated the learning process for a large class of students. The course covered the fundamental principles of analog and digital communication.
 
 Course Description
 ======
