@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Electrical Engineering (with Minor in Mathematics), North Carolina State University, 2022 - 2025** (expected)
-  **Thesis Title:** “Balanced Scalability for Sustainable ML: Novel Data Synthesis and Transformer Dynamics for Efficient AI Systems”
-  **Honors:** Recipient of the Graduate Merit Award from the College of Engineering (2022 & 2024).
+* **Ph.D. in Electrical Engineering (with Minor in Mathematics), North Carolina State University, 2022 - 2025** (expected)<br>
+  **Thesis Title:** “Balanced Scalability for Sustainable ML: Novel Data Synthesis and Transformer Dynamics for Efficient AI Systems”<br>
+  **Honors:** Recipient of the Graduate Merit Award from the College of Engineering (2022 & 2024).<br>
   **Supervisor:** [Dr. Hamid Krim](https://hamidkrim.com/students/)
 
-* **M.Sc. in Electrical Engineering, Sharif University of Technology, 2018 - 2021**
-  **Thesis Title:** “Human identity recognition through gait and body motions analysis”
-  **Honors:** Graduated with Distinction (19.75/20 Thesis Grade); Ranked 3rd among all students in Secure Communications & Cryptography.
+* **M.Sc. in Electrical Engineering, Sharif University of Technology, 2018 - 2021**<br>
+  **Thesis Title:** “Human identity recognition through gait and body motions analysis”<br>
+  **Honors:** Graduated with Distinction (19.75/20 Thesis Grade); Ranked 3rd among all students in Secure Communications & Cryptography.<br>
   **Supervisor:** [Dr. Shahrokh Ghaemmaghami](https://sharif.edu/~ghaemmag/)
 
-* **B.Sc. in Electrical Engineering, Amirkabir University of Technology, 2014 - 2018**
-  **Thesis Title:** “Human Identity recognition through Iris analysis by keypoint-based feature extraction method under variable image quality conditions”
-  **Honors:** Ranked in the top 0.3% (491 out of 223,000+) in the National University Entrance Exam.
+* **B.Sc. in Electrical Engineering, Amirkabir University of Technology, 2014 - 2018**<br>
+  **Thesis Title:** “Human Identity recognition through Iris analysis by keypoint-based feature extraction method under variable image quality conditions”<br>
+  **Honors:** Ranked in the top 0.3% (491 out of 223,000+) in the National University Entrance Exam.<br>
   **Supervisor:** [Dr. Hamidreza Amindavar](https://www.linkedin.com/in/hamidreza-amindavar/?originalSubdomain=ir)
 
 Work experience
