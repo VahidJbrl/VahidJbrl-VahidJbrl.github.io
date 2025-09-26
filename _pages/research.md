@@ -4,8 +4,6 @@ title: "My Researchs"
 author_profile: true
 ---
 
-## Featured Publications
-
 ### [VITCAE: ViT-based Class-conditioned Autoencoder](https://arxiv.org/abs/2509.16554)
 ![VITCAE Architecture](/images/vitcae_architecture.png)
 Standard Vision Transformer (ViT) autoencoders often fail to leverage the global Class token for generation and use static attention mechanisms, which is inefficient. VITCAE addresses this by transforming the Class token into a generative controller. In this framework, the encoder maps the Class token to a global latent variable that sets the prior distribution for all local patch-level latents, creating a strong hierarchy where global semantics guide the synthesis of local details. Inspired by opinion dynamics, we introduce a convergence-aware temperature scheduler that adaptively anneals each attention head's influence, allowing us to freeze converged heads during training. This dynamic head-pruning mechanism significantly improves computational efficiency without sacrificing model fidelity.
