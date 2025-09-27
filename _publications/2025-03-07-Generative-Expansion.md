@@ -6,8 +6,8 @@ permalink: /publication/2025-03-07-Generative-Expansion
 excerpt: ''
 date: 2025-03-07
 venue: 'ICASSP 2025'
-slidesurl: 'http://vahidjbrl.github.io/files/slides2.pdf'
-paperurl: 'http://vahidjbrl.github.io/files/paper2.pdf'
+slidesurl: ''
+paperurl: '/files/paper2.pdf'
 citation: 'V. Jebraeeli, B. Jiang, H. Krim and D. Cansever, "Generative Expansion of Small Datasets: An Expansive Graph Approach," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10887596.'
 ---
 
